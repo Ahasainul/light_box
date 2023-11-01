@@ -1,0 +1,22 @@
+img{
+    width: 100%;
+    border-radius: 10px;
+}
+#light-box{
+    background: teal;
+}
+.container{
+    width: 1170px;
+    margin: 0 auto;
+}
+.img_part{
+ padding: 100px 0;
+    display: flex; 
+
+}
+.img_item{
+    border: 2px solid gold;
+    margin-left: 20px;
+    padding: 5px;
+    border-radius: 10px;
+}
